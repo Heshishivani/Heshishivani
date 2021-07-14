@@ -1,5 +1,5 @@
 <b><i>Hi there, I'm Heshini 👋 </i></b> <br>
- I'm a Undergraduate student at SLIIT.
+ I'm an undergraduate student at SLIIT.
 <br> ------------------------------------------------------------------------------
 
 - 👀 I’m interested in Frontend Development and Content Writing
