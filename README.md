@@ -1,13 +1,5 @@
-<b><i>Hi there, I'm Heshini 👋 </i></b> <br>
- I'm an undergraduate student at SLIIT.
-<br> ------------------------------------------------------------------------------
-
-- 👀 I’m interested in Frontend Development and Content Writing
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on community projects
-- 🥅 2021 Goals: Contribute more to projects
-- ⚡ Fun fact: I am from the wizarding world
-- 😄 Pronouns: She/Her
+Y2S2 - ITP Project <br>
+IT20096816 - Heshishivani
 
 
 
