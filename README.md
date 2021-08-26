@@ -1,5 +1,4 @@
-📌 Y2S2 - ITP Project <br>
-   IT20096816 - Heshishivani
+<i><b>📌 Y2S2 - ITP Project </i></b><br> IT20096816 - Heshishivani
 
 
 
